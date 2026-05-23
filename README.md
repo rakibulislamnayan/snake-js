@@ -1,4 +1,4 @@
-<img width="554" height="845" alt="image" src="https://github.com/user-attachments/assets/73b49ba1-3539-44f3-8209-c278791d7d40" /># 🐍 Snake
+# 🐍 Snake
 
 A fully-featured Snake game built with vanilla HTML, CSS, and JavaScript — rendered on HTML5 Canvas. No frameworks, no dependencies.
 
