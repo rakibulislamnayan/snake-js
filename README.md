@@ -9,18 +9,18 @@ A fully-featured Snake game built with vanilla HTML, CSS, and JavaScript — ren
 
 ## ✨ Features
 
-- **Classic mode** — walls kill you
-- **Wrap mode** — snake passes through edges
-- **3 food types** — Normal (+1), Bonus (+3), Super (+5)
-- **Obstacles** — randomly placed blocks that increase with level
-- **Speed scaling** — snake gets faster as your score grows
-- **10 difficulty levels** — level up every 8 points
-- **High score tracking** — saved in localStorage across sessions
-- **Mobile D-pad** — touch-friendly controls on mobile
-- **Keyboard support** — arrow keys to move, Space to pause
-- **Pause / resume** — take a break mid-game
-- **Smooth Canvas rendering** — animated eyes, gradient snake body, food shine effect
-- **Zero dependencies** — pure HTML, CSS, JavaScript
+- **Classic mode**: walls kill you
+- **Wrap mode**: snake passes through edges
+- **3 food types**: Normal (+1), Bonus (+3), Super (+5)
+- **Obstacles**: randomly placed blocks that increase with level
+- **Speed scaling**: snake gets faster as your score grows
+- **10 difficulty levels**: level up every 8 points
+- **High score tracking**: saved in localStorage across sessions
+- **Mobile D-pad**: touch-friendly controls on mobile
+- **Keyboard support**: arrow keys to move, Space to pause
+- **Pause / resume**: take a break mid-game
+- **Smooth Canvas rendering**: animated eyes, gradient snake body, food shine effect
+- **Zero dependencies**: pure HTML, CSS, JavaScript
 
 ---
 
@@ -122,4 +122,3 @@ Made by **Md. Rakibul Islam Nayan** · [LinkedIn](https://www.linkedin.com/in/ra
 
 ---
 
-*Part of my game development portfolio — more games coming soon!*
