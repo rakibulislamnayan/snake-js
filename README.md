@@ -1,4 +1,4 @@
-# 🐍 Snake
+<img width="554" height="845" alt="image" src="https://github.com/user-attachments/assets/73b49ba1-3539-44f3-8209-c278791d7d40" /># 🐍 Snake
 
 A fully-featured Snake game built with vanilla HTML, CSS, and JavaScript — rendered on HTML5 Canvas. No frameworks, no dependencies.
 
@@ -69,10 +69,10 @@ A fully-featured Snake game built with vanilla HTML, CSS, and JavaScript — ren
 
 ## 🧠 How It Works
 
-- **Game loop** — `setInterval` drives the tick at variable speed based on level
-- **Collision detection** — checks head position against walls, self, and obstacles each tick
-- **Food spawning** — weighted random selection between 3 food types
-- **Speed scaling** — interval decreases every 8 points scored, up to level 10
+- **Game loop**: `setInterval` drives the tick at variable speed based on level
+- **Collision detection**: checks head position against walls, self, and obstacles each tick
+- **Food spawning**: weighted random selection between 3 food types
+- **Speed scaling**: interval decreases every 8 points scored, up to level 10
 
 ---
 
@@ -108,11 +108,11 @@ open index.html
 
 ## 📌 What I Learned
 
-- **HTML5 Canvas API** — rendering shapes, arcs, and custom drawing
-- **Game loop architecture** — tick-based movement with variable speed
-- **Collision detection** — efficient array-based checks
-- **localStorage** — persisting data across browser sessions
-- **Mobile touch controls** — building responsive D-pad UI
+- **HTML5 Canvas API**: rendering shapes, arcs, and custom drawing
+- **Game loop architecture**: tick-based movement with variable speed
+- **Collision detection**: efficient array-based checks
+- **localStorage**: persisting data across browser sessions
+- **Mobile touch controls**: building responsive D-pad UI
 
 ---
 
